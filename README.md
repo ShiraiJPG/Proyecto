@@ -15,9 +15,9 @@ Instalación
    cd tu-repositorio
 
 2. Crea y activa el entorno virtual:
-python -m venv venv  
-source venv/bin/activate  # Mac/Linux  
-venv\Scripts\activate  # Windows  
+python -m venv Proyecto
+source Proyecto/bin/activate  # Mac/Linux  
+Proyecto\Scripts\activate  # Windows  
 
 3. Instala las dependencias:
 pip install -r requirements.txt
