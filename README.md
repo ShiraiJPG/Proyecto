@@ -11,7 +11,7 @@ Una prueba de un leve codigo
 Instalación  
 1. Clona el repositorio:  
    ```sh
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   git clone https://github.com/ShiraiJPG/Proyecto.git
    cd tu-repositorio
 
 2. Crea y activa el entorno virtual:
